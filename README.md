@@ -8,6 +8,7 @@ Feel free to fork, clone, or download the repo and customize the game to make it
 
 ## 🚧 Live Demo (Temporarily Unavailable)
 
+
 We’re currently working on fixing the live demo.  
 Stay tuned! You’ll soon be able to play Snake Mania right in your browser.
 
