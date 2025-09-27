@@ -1,29 +1,30 @@
-# Snake Mania
-Welcome to Snake Mania! This project is a delightful recreation of the classic game using HTML, CSS, and JavaScript, designed to evoke nostalgia from our childhoods. Feel free to clone the project and add your own features to customize the game.
+# 🐍 Snake Mania
 
-## Installation
+Welcome to **Snake Mania** — a modern twist on the classic snake game built with **HTML, CSS, and JavaScript**. Whether you're here to relive nostalgic memories or sharpen your coding skills, this project is a great starting point for fun and creativity.
 
-Clone the repository or download it as a zip file.
+Feel free to fork, clone, or download the repo and customize the game to make it your own!
+
+---
+
+## 🚧 Live Demo (Temporarily Unavailable)
+
+
+We’re currently working on fixing the live demo.  
+Stay tuned! You’ll soon be able to play Snake Mania right in your browser.
+
+---
+
+## 🛠️ Tech Stack
+
+- 🔹 **HTML** – Structure  
+- 🔸 **CSS** – Styling  
+- 🔹 **JavaScript** – Game Logic
+
+---
+
+## 🧑‍💻 Getting Started
+
+Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/Sharma262/Snake_mania.git
-```
-
-## Technology Stack
-
-```
-HTML
-CSS
-Javascript
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-
-## LIVE DEMO
-
-Explore the live demo of the Analog Clock App: [SNAKE MANIA GAME](snakemania.infinityfreeapp.com).
-Feel free to contribute, provide feedback, or customize this project as per your needs. Happy coding!
